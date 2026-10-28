@@ -6,11 +6,11 @@
   "author": "PBJ Protocol",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pbjprotocol/relay-js.git"
+    "url": "git+https://github.com/pbjprotocol/relay.git"
   },
   "homepage": "https://0xpbj.pro",
   "bugs": {
-    "url": "https://github.com/pbjprotocol/relay-js/issues"
+    "url": "https://github.com/pbjprotocol/relay/issues"
   },
   "keywords": [
     "relay",
